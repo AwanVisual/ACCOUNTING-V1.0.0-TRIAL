@@ -48,8 +48,8 @@ interface Account {
 }
 
 // --- SUPABASE SETUP ---
-const SUPABASE_URL = 'https://dcmkxdxmbryqatdbiqay.supabase.co';
-const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRjbWt4ZHhtYnJ5cWF0ZGJpcWF5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTc3NjA4OTUsImV4cCI6MjA3MzMzNjg5NX0.UWWuIgDkjxLeIFIJx9Ow1PV6r3EpwPzwCJgcCVeZ9Po';
+const SUPABASE_URL = 'https://uqruoxqwltoppskiyijm.supabase.co';
+const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVxcnVveHF3bHRvcHBza2l5aWptIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTc4NDk4NjIsImV4cCI6MjA3MzQyNTg2Mn0.vUA4Efuov1W22BGagxwn7Xt3DNQxQ4H7XzhixJ-C3NE';
 
 // --- CONSTANTS ---
 const PPN_RATE = 0.11;
